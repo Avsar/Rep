@@ -12,7 +12,7 @@ This how-to explains how you can create a basic card action for your application
 
 **This how-to will teach you how to do the following:**
 
-* Create entities and attributes
+* Add a Row to the Dashboard
 * Add enumerations
 * Create associations
 * Delete association behavior
