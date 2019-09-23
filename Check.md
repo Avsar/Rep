@@ -31,7 +31,7 @@ To add a row to the dashboard of your app, follow these steps:
 
 1.  Open the **Dashboard** page of your app:
 
-        [ref](Images/Dashboard.png)
+        ![](Images/Dashboard.png)
 
 2.  Click **Entity** in the menu bar:
 
